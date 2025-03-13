@@ -7,8 +7,6 @@
 
 ### Projects
 
-### Projects
-
 | <img src="./imgs/openticon.png" width="150" />                | <img src="./imgs/kickcap.png" width="150" />              | <img src="./imgs/inMind.png" width="150" />             | <img src="./imgs/inspitrip.jpg" width="150" />                |
 | ------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
 | <a href="https://github.com/Roista57/OPENTICON">OPENTICON</a> | <a href="https://github.com/Roista57/KICKCAP">KICKCAP</a> | <a href="https://github.com/Roista57/InMind">InMind</a> | <a href="https://github.com/Roista57/InspiTrip">InspiTrip</a> |
